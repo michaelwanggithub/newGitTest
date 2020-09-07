@@ -1,2 +1,2 @@
 # newGitTest
-## some changes! Start me up!
+## A brand new start! Start me up!
